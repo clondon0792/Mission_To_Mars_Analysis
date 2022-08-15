@@ -29,7 +29,7 @@ Mission to Mars - Web Scraping with HTML/CSS
 BeautifulSoup and Splinter were used to automate a web browser and perform a web scrape.
 
 ## Mars Hemisphere data dictionary
-![Pic 1](https://github.com/Baylex/Mission-to-Mars/blob/main/Resources/hemi_dict.PNG)
+![Pic 1](https://github.com/clondon0792/Mission_To_Mars_Analysis/blob/main/Resources/hemi_dict.PNG)
 
 # Using MongoDB and Flask to display the data as HTML/CSS
 MongoDB database was used to store data from the web scrape, and then a web application was created with Flask to display the data from the web scrape.
@@ -37,15 +37,15 @@ MongoDB database was used to store data from the web scrape, and then a web appl
 The Python code from the scraping file may differ slightly from the Jupyter Notebook Mission to Mars Challenge file.  Some variables needed to be changed to match other files. 
 
 ## Final code in the scraping file:
-![Pic 2](https://github.com/Baylex/Mission-to-Mars/blob/main/Resources/code_top.PNG)
-![Pic 3](https://github.com/Baylex/Mission-to-Mars/blob/main/Resources/code_bottom.PNG)
+![Pic 2](https://github.com/clondon0792/Mission_To_Mars_Analysis/blob/main/Resources/code_top.PNG)
+![Pic 3](https://github.com/clondon0792/Mission_To_Mars_Analysis/blob/main/Resources/code_bottom.PNG)
 
 ## Scraping Success:
-![Pic 4](https://github.com/Baylex/Mission-to-Mars/blob/main/Resources/Successful_scrape.PNG)
+![Pic 4](https://github.com/clondon0792/Mission_To_Mars_Analysis/blob/main/Resources/Successful_scrape.PNG)
 
 ## Website after scraping:
-![Pic 5](https://github.com/Baylex/Mission-to-Mars/blob/main/Resources/website_top.PNG)
-![Pic 6](https://github.com/Baylex/Mission-to-Mars/blob/main/Resources/website_bottom.PNG)
+![Pic 5](https://github.com/clondon0792/Mission_To_Mars_Analysis/blob/main/Resources/website_top.PNG)
+![Pic 6](https://github.com/clondon0792/Mission_To_Mars_Analysis/blob/main/Resources/website_bottom.PNG)
 
 # Using Bootstrap 3 to modify the html file
 ## The webpage is mobile-responsive
